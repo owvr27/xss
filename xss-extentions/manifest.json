@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "LΞX XSS Tester",
+  "version": "1.0",
+  "description": "Manual DOM XSS testing tool",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
